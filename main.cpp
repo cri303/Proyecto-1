@@ -8,7 +8,7 @@ int main()
     queue<string> cola;
     cola.push("david");
     cola.push("ana");
-    cola.push("sofia");
+    cola.push("carmen");
 
     //atender primero
     cout << "se atendio a: "<< cola.front() << endl;
